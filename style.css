@@ -31,9 +31,15 @@ h2 {
 }
 
 #map {
-  height: 450px;
+  height: 400px;
   max-width: 1000px;
   margin: 0 auto;
   border-radius: 8px;
   margin-top: 20px;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
 }
